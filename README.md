@@ -1,2 +1,2 @@
 # NLW
-projeto da rocktset
+projeto da rocketseat
